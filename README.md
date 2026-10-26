@@ -19,7 +19,7 @@ Valhalla 1.8 (24), October 26, 2026
 - Catalogue: your whole collection with covers, sent to a console over the network.
 - Consoles: what is on each console, its drives and screenshots.
 - Trainers: SafeLight.Dev's trainers for 100 games, run from Valhalla while you play, plus cheats of your own.
-- Player: profiles, achievements and saves.
+- Player: profiles, GPD editing and saves.
 - Valkyrie: installs SafeLight.Dev's dashboard on a console.
 - Drives: Forge builds console drives.
 
