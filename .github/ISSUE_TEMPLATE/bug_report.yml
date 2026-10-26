@@ -1,0 +1,39 @@
+name: Bug report
+description: Something in Valhalla doesn't work as it should
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Valhalla version
+      description: The version and build number, for example 1.8 (22).
+      placeholder: 1.8 (22)
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Computer
+      options:
+        - Mac
+        - Windows 10
+        - Windows 11
+    validations:
+      required: true
+  - type: input
+    id: console
+    attributes:
+      label: Console
+      description: The console and what it runs, for example RGH3 Trinity with Aurora, or with Valkyrie.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what Valhalla did instead.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or log
+      description: Drag screenshots here. On a Mac the log is ~/Library/Logs/Valhalla/valhalla-debug.log.
