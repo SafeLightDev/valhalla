@@ -6,10 +6,10 @@ A free Mac and Windows app for RGH and JTAG Xbox 360 consoles, made by SafeLight
 
 ## Download
 
-Valhalla 1.8 (26), October 27, 2026
+Valhalla 1.8 (27), October 28, 2026
 
-- Mac, macOS 14 or later: [Valhalla.dmg](https://downloads.safelight.dev/df4ac85df01364fa/valhalla/1.8-26/Valhalla.dmg)
-- Windows 10 and 11, 64-bit: [Valhalla-Setup.exe](https://downloads.safelight.dev/df4ac85df01364fa/valhalla/1.8-26/Valhalla-Setup.exe)
+- Mac, macOS 14 or later: [Valhalla.dmg](https://downloads.safelight.dev/df4ac85df01364fa/valhalla/1.8-27/Valhalla.dmg)
+- Windows 10 and 11, 64-bit: [Valhalla-Setup.exe](https://downloads.safelight.dev/df4ac85df01364fa/valhalla/1.8-27/Valhalla-Setup.exe)
 - Valhalla updates itself. Every version's notes are on the [Releases](../../releases) page.
 - Windows: the installer isn't code-signed, so the first run shows "Windows protected your PC". Choose More info, then Run anyway. If Smart App Control blocks it, tell us on Discord.
 
